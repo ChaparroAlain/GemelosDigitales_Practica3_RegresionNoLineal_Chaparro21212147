@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ChaparroAlain/GemelosDigitales_Practica3_RegresionNoLineal_Chaparro21212147)
 
-# Gemelos Digitales. Práctica 3: Regresion no lineal
+# Gemelos Digitales. Práctica 3: Regresion no lineal [Chaparro21212147]
 
 ## Autor
 Chaparro Zamora Alain Yahir
