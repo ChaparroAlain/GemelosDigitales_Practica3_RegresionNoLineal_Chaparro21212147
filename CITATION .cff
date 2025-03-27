@@ -8,25 +8,25 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Andres Martin
-    family-names: Bañuelos Elias
-    email: L21212142@tectijuana.edu.mx
+  - given-names: Alain Yahir 
+    family-names: Chaparro Zamora
+    email: L21212147@tectijuana.edu.mx
     affiliation: 'Tecnológico Nacional de México '
 identifiers:
   - type: url
     value: >-
-      https://github.com/IamJrbe/GemelosDigitales-Practica3-RegresionNoLineal-21212142_-Banuelos-#
-    description: Práctica 3_Regresión No Lineal
+https://github.com/ChaparroAlain/GemelosDigitales_Practica3_RegresionNoLineal_Chaparro21212147
+    description: Práctica3_RegresiónNoLineal
 abstract: |2-
    Tecnologico Nacional de México 
    Instituto Tecnologico de Tijuana
    Ingeniería Biomédica 
    Gemelos Digitales
-   Práctica 3- Regresión no lineal
+   Práctica3-RegresiónNoLineal
 keywords:
+  - Nonlinear Regression
   - Logistic
   - Allometric
   - Gompertz
-  - Nonlinear Regression
   - Growth Law
 license: BSD-2-Clause
