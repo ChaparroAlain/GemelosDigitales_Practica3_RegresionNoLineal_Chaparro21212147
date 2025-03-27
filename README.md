@@ -13,7 +13,7 @@ En esta práctica se usa un algoritmo de regresión no lineal para ajustar datos
 ## Objetivos específicos
 1.-Descargar y analizar los datos experimentales de crecimiento celular en dos muestras tomadas tomadas en cierto periodo de tiempo.
 2.-Implementar algoritmos en MATLAB para ajustar los modelos sigmoidales de crecimiento logistico, alometrico y de gompertz haciendo uso de nlinfit.
-4.-Comparar los resultados de datos y graficos obtenidos en MATLAB y Python, evaluando qué tan bien ajusta cada modelo.
+4.-Comparar los resultados de datos y graficos obtenidos en MATLAB, evaluando qué tan bien ajusta cada modelo.
 
 ## Docente
 Dr. Paul A. Valle
